@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> classic login form </title>
+    <link rel="stylesheet" href="css/login.css">
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Login</a></li>
+            <li><a href="#">Sign up</a></li>
+            <li><a href="#">About</a></li>
+        </ul>
+    </nav>
+    <div class="container">
+        <form action="/login" method="POST">
+            <input type="text" name="username" maxlength="15" placeholder="username" autofocus >
+            
+            <input type="password" name="password" minlength="6" placeholder="password" required >
+            
+            <input type="submit" value="submit">
+        </form>
+        <div class="img-cover">
+        <img src="img/beauty.jpg" alt="random decoration">  
+        <div class="overlay"></div>          
+        </div>
+
+    </div>
+</body>
+</html>
