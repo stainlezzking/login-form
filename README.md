@@ -1,4 +1,9 @@
-## HTML LANDING PAGE
+## FREE TO USE LOGIN TEMPLATE
 ---
-> ### A fully Responsive website with with a functional menu
+> **BUILT WITH HTML AND CSS**
+> ###  fully Responsive 
+
+> NO EXTRA PLUGIN NEEDED, ALL ANIMATIONS WERE DONE WITH CSS
+
+use as you wish
 
